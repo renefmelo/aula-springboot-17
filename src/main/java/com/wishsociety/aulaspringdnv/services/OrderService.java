@@ -7,9 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.wishsociety.aulaspringdnv.entities.Order;
-import com.wishsociety.aulaspringdnv.entities.User;
 import com.wishsociety.aulaspringdnv.repositories.OrderRepository;
-import com.wishsociety.aulaspringdnv.repositories.UserRepository;
 
 @Service
 public class OrderService {
